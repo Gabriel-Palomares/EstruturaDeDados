@@ -35,4 +35,4 @@ Análise empírica e teórica dos algoritmos de ordenação mais utilizados no m
 ## ⚙️ Como Executar
 1. Clone este repositório:
    ```bash
-https://github.com/Gabriel-Palomares/EstruturaDeDados.git
+   git clone [https://github.com/Gabriel-Palomares/EstruturaDeDados.git](https://github.com/Gabriel-Palomares/EstruturaDeDados.git)
